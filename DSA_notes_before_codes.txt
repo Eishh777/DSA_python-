@@ -2,6 +2,15 @@ concepts of DSA:
 arrays:
 
 linkedlist:
+Dynamic version of arrays 
+size changes dynamically 
+A structure that can be visualised as a chain with different nodes where each node is a different element 
+1. pointer: variable that stores the memory address of another variable. It points to the location in memory 
+where the data stored.
+allows to directly access and manipulate data by returning to its memory address 
+
+2. node and node* : node is a structure that contains data and the pointer to the next node 
+node* is a pointer variable that stores address of the node its pointing to. 
 
 searching:
 
